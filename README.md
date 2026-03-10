@@ -1,11 +1,11 @@
 # privacypolicy
 
-FLAPPY WINGS GO — PRIVACY POLICY
+GoFlappy GO — PRIVACY POLICY
 
 Last Updated: March 4, 2026
 
 1. INTRODUCTION
-Flappy Wings ("the App," "we," "our," or "us") respects your privacy. This Privacy Policy explains what information we collect, how we use it, and your choices regarding your data.
+GoFlappy Go ("the App," "we," "our," or "us") respects your privacy. This Privacy Policy explains what information we collect, how we use it, and your choices regarding your data.
 
 2. INFORMATION WE COLLECT
 
