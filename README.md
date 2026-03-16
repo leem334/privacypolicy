@@ -2,7 +2,7 @@
 
 Invader Rush— PRIVACY POLICY
 
-Last Updated: March 4, 2026
+Last Updated: March 16, 2026
 
 1. INTRODUCTION
 Invader Rush ("the App," "we," "our," or "us") respects your privacy. This Privacy Policy explains what information we collect, how we use it, and your choices regarding your data.
