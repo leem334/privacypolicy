@@ -1,11 +1,11 @@
 # privacypolicy
 
-GoFlappy GO — PRIVACY POLICY
+Invader Rush— PRIVACY POLICY
 
 Last Updated: March 4, 2026
 
 1. INTRODUCTION
-GoFlappy Go ("the App," "we," "our," or "us") respects your privacy. This Privacy Policy explains what information we collect, how we use it, and your choices regarding your data.
+Invader Rush ("the App," "we," "our," or "us") respects your privacy. This Privacy Policy explains what information we collect, how we use it, and your choices regarding your data.
 
 2. INFORMATION WE COLLECT
 
@@ -38,7 +38,7 @@ We do not sell your personal information. We share data only with:
 - You may request removal of your leaderboard entry by contacting us
 
 6. CHILDREN'S PRIVACY
-Flappy Wings is rated 4+ and does not knowingly collect personal information from children under 13. The only data collected (display name for leaderboard) is a self-chosen alias, not linked to real identity. No account creation is required.
+Invader Rush is rated 4+ and does not knowingly collect personal information from children under 13. The only data collected (display name for leaderboard) is a self-chosen alias, not linked to real identity. No account creation is required.
 
 7. DATA SECURITY
 We use industry-standard security measures to protect leaderboard data transmitted to and stored on our servers. Local game data is stored on-device and protected by your device's security features.
